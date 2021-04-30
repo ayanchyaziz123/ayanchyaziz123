@@ -1,5 +1,5 @@
 
-I'm a Student, Software developer, Web developer , and More!!!
+I'm a Student, Software developer, Web developer !!!
 
 
 
