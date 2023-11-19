@@ -1,5 +1,5 @@
 
-I'm a Student, Software developer, Web developer !!!
+Backed developer | java |spring boot| python | c++ | js
 
 
 
